@@ -1,0 +1,6 @@
+@HolidayAPI_HostAddress = http://localhost:5072
+
+GET {{HolidayAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
